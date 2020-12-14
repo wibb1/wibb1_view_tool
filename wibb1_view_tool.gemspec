@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Will Campbell"]
   spec.email         = ["wibb1@comcast.net"]
 
-  spec.summary       = %q{Instructional gem: various view specific methods for portfolio.}
+  spec.summary       = %q{First gem created to display various view specific methods for portfolio.}
   spec.description   = %q{Provides generated HTML data for Rails applications.}
   spec.homepage      = ""
   spec.license       = "MIT"
